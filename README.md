@@ -3,6 +3,7 @@ Proficiency and understanding of machine learning techniques, data management an
 
 I graduated with Master of Management Analytics (MMA) from Smith Business School, Queen's University (2022)
 
+All study projects are availabe at https://github.com/fs-19
 
 <!--
 **fs-19/fs-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
