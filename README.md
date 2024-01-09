@@ -1,4 +1,6 @@
-### Hi there 👋
+Data analytics and BI specialist skilled in Python, SQL, data analytics, data visualization and business intelligence. Proficiency and understanding of advanced analytics and machine learning alongside quality assurance, stakeholder management, project management and product management skills across various industries.
+Master of Management Analytics (MMA) from Smith Business School, Queen's University (2022)
+
 
 <!--
 **fs-19/fs-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
