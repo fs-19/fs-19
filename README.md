@@ -1,5 +1,7 @@
-Data analytics and BI specialist skilled in Python, SQL, data analytics, data visualization and business intelligence. Proficiency and understanding of advanced analytics and machine learning alongside quality assurance, stakeholder management, project management and product management skills across various industries.
-Master of Management Analytics (MMA) from Smith Business School, Queen's University (2022)
+Data Analytics and BI specialist experience in analyzing and interpreting data into business insights and data driven solutions.  
+Proficiency and understanding of machine learning techniques, data management and skilled in business intelligence, data visualization alongside quality assurance and stakeholder management across various industries.
+
+I graduated with Master of Management Analytics (MMA) from Smith Business School, Queen's University (2022)
 
 
 <!--
